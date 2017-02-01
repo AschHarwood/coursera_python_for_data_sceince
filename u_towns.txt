@@ -1,0 +1,567 @@
+Alabama
+Auburn 
+Florence 
+Jacksonville 
+Livingston 
+Montevallo 
+Troy 
+Tuscaloosa 
+Tuskegee 
+Alaska
+Fairbanks 
+Arizona
+Flagstaff 
+Tempe 
+Tucson 
+Arkansas
+Arkadelphia 
+Conway 
+Fayetteville 
+Jonesboro 
+Magnolia 
+Monticello 
+Russellville 
+Searcy 
+California
+Angwin 
+Arcata 
+Berkeley 
+Chico 
+Claremont 
+Cotati 
+Davis 
+Irvine 
+Isla Vista 
+Los Angeles 
+Merced 
+Orange 
+Palo Alto 
+Pomona
+Redlands 
+Riverside 
+Sacramento 
+San Bernardino 
+San Diego 
+San Luis Obispo 
+Santa Barbara 
+Santa Cruz 
+Turlock 
+Westwood, Los Angeles 
+Whittier 
+Colorado
+Alamosa 
+Boulder 
+Durango 
+Fort Collins 
+Golden 
+Grand Junction 
+Greeley 
+Gunnison 
+Pueblo 
+Connecticut
+Fairfield 
+Middletown 
+New Britain 
+New Haven 
+New London 
+Storrs 
+Willimantic 
+Delaware
+Dover 
+Newark 
+Florida
+Ave Maria 
+Boca Raton 
+Coral Gables 
+DeLand 
+Estero 
+Gainesville 
+Orlando 
+Sarasota 
+St. Augustine 
+St. Leo 
+Tallahassee 
+Tampa 
+Georgia
+Albany 
+Athens 
+Atlanta 
+Carrollton 
+Demorest 
+Fort Valley 
+Kennesaw 
+Milledgeville 
+Mount Vernon 
+Oxford 
+Rome 
+Savannah 
+Statesboro 
+Valdosta 
+Waleska 
+Young Harris 
+Hawaii
+Manoa 
+Idaho
+Moscow 
+Pocatello 
+Rexburg 
+Illinois
+Carbondale 
+Champaign–Urbana 
+Charleston 
+DeKalb 
+Edwardsville 
+Evanston 
+Lebanon 
+Macomb 
+Normal 
+Peoria 
+Indiana
+Bloomington 
+Crawfordsville 
+Greencastle 
+Hanover 
+Marion 
+Muncie 
+Oakland City 
+Richmond 
+South Bend 
+Terre Haute 
+Upland 
+Valparaiso 
+West Lafayette 
+Iowa
+Ames 
+Cedar Falls 
+Cedar Rapids 
+Decorah 
+Fayette 
+Grinnell 
+Iowa City 
+Lamoni 
+Mount Vernon 
+Orange City 
+Sioux Center 
+Storm Lake 
+Waverly 
+Kansas
+Baldwin City 
+Emporia 
+Hays 
+Lawrence 
+Manhattan 
+Pittsburg 
+Kentucky
+Bowling Green 
+Columbia 
+Georgetown 
+Highland Heights 
+Lexington 
+Louisville 
+Morehead 
+Murray 
+Richmond 
+Williamsburg 
+Wilmore 
+Louisiana
+Baton Rouge 
+Grambling 
+Hammond 
+Lafayette 
+Monroe 
+Natchitoches 
+Ruston 
+Thibodaux 
+Maine
+Augusta 
+Bar Harbor 
+Brunswick 
+Farmington 
+Fort Kent 
+Gorham 
+Lewiston 
+Orono 
+Waterville 
+Maryland
+Annapolis 
+Chestertown 
+College Park 
+Cumberland 
+Emmitsburg 
+Frostburg 
+Princess Anne 
+Towson 
+Salisbury 
+Westminster 
+Massachusetts
+Boston 
+Bridgewater 
+Cambridge 
+Chestnut Hill 
+
+Dudley 
+North Grafton 
+Paxton 
+Worcester 
+
+Amherst 
+Northampton 
+South Hadley 
+Fitchburg 
+North Adams 
+Springfield 
+Waltham 
+Williamstown 
+Framingham 
+Michigan
+Adrian 
+Albion 
+Allendale 
+Alma 
+Ann Arbor 
+Berrien Springs 
+Big Rapids 
+East Lansing 
+Flint 
+Hillsdale 
+Houghton 
+Kalamazoo 
+Marquette 
+Midland 
+Mount Pleasant 
+Olivet 
+Saginaw 
+Sault Ste. Marie 
+Spring Arbor 
+Ypsilanti 
+Minnesota
+Bemidji 
+Crookston 
+Duluth 
+Faribault
+Mankato
+Marshall 
+Moorhead 
+Morris 
+Northfield 
+North Mankato
+St. Cloud 
+St. Joseph 
+St. Peter 
+Winona 
+Mississippi
+Cleveland 
+Hattiesburg 
+Itta Bena 
+Oxford 
+Starkville 
+Missouri
+Bolivar 
+Cape Girardeau 
+Columbia 
+Fayette 
+Fulton .
+Kirksville 
+Maryville 
+Rolla 
+Warrensburg 
+Montana
+Bozeman 
+Dillon 
+Missoula 
+Nebraska
+Chadron 
+Crete 
+Kearney 
+Lincoln 
+Peru 
+Seward 
+Wayne 
+Nevada
+Las Vegas 
+Reno 
+New Hampshire
+New London 
+Durham 
+Hanover 
+Henniker 
+Keene 
+Plymouth 
+Rindge 
+New Jersey
+Ewing 
+Jersey City 
+Glassboro 
+Hoboken 
+Madison 
+Newark 
+New Brunswick 
+Princeton 
+Union 
+West Long Branch 
+New Mexico
+Hobbs 
+Las Cruces 
+Las Vegas 
+Portales 
+Silver City 
+New York
+Alfred 
+Albany 
+Aurora 
+Binghamton 
+Brockport 
+Buffalo 
+Canton 
+Clinton 
+Cobleskill 
+Delhi 
+Fredonia 
+Geneseo 
+Geneva 
+Hamilton 
+Ithaca 
+Manhattan 
+New Paltz 
+Oneonta 
+Oswego 
+Plattsburgh 
+Potsdam 
+Poughkeepsie 
+Purchase 
+Rochester 
+Saratoga Springs 
+Seneca Falls 
+Stony Brook 
+Syracuse 
+Tivoli 
+Troy 
+West Point 
+North Carolina
+Banner Elk 
+Boiling Springs 
+Boone 
+Buies Creek 
+Chapel Hill 
+Cullowhee 
+Davidson 
+Durham 
+Elon 
+Greensboro 
+Greenville 
+Hickory 
+Mars Hill 
+Mount Olive 
+Pembroke 
+Wilmington 
+Wingate 
+Winston-Salem 
+North Dakota
+Fargo 
+Grand Forks 
+Ohio
+Ada 
+Alliance 
+Ashland 
+Athens 
+Berea 
+Bluffton 
+Bowling Green 
+Cedarville 
+Columbus 
+Delaware 
+Fairborn 
+Findlay 
+Gambier 
+Granville 
+Hiram 
+Kent 
+Nelsonville 
+New Concord 
+Oberlin 
+Oxford 
+Rio Grande 
+Wilberforce 
+Oklahoma
+Ada 
+Alva 
+Durant 
+Edmond 
+Goodwell 
+Langston 
+Norman 
+Stillwater 
+Tahlequah 
+Tulsa 
+Weatherford 
+Oregon
+Ashland 
+Corvallis 
+Eugene 
+Forest Grove 
+Klamath Falls 
+La Grande 
+Marylhurst 
+McMinnville 
+Monmouth 
+Newberg 
+Pennsylvania
+Altoona 
+Annville 
+Bethlehem 
+Bloomsburg 
+Bradford 
+California 
+Carlisle 
+Philadelphia 
+Clarion 
+Collegeville 
+Cresson 
+East Stroudsburg 
+Edinboro 
+Erie 
+Gettysburg 
+Greensburg 
+Grove City 
+Huntingdon 
+Indiana 
+Johnstown 
+Kutztown 
+Lancaster 
+Lewisburg 
+Lock Haven 
+Loretto 
+Mansfield 
+Meadville 
+Mont Alto 
+Millersville 
+New Wilmington 
+North East 
+Philadelphia 
+Pittsburgh 
+Reading 
+Selinsgrove 
+Shippensburg 
+Slippery Rock 
+State College 
+Villanova 
+Waynesburg 
+West Chester 
+Wilkes-Barre 
+Williamsport 
+Rhode Island
+Kingston 
+Providence 
+South Carolina
+Central 
+Charleston 
+Clemson 
+Clinton 
+Columbia 
+Due West 
+Florence 
+Greenwood 
+Orangeburg 
+Rock Hill 
+Spartanburg 
+South Dakota
+Brookings 
+Madison 
+Spearfish 
+Vermillion 
+Tennessee
+Chattanooga 
+Collegedale 
+Cookeville 
+Harrogate 
+Henderson 
+Johnson City 
+Knoxville 
+Martin 
+McKenzie 
+Memphis 
+Murfreesboro 
+Nashville 
+Sewanee 
+Texas
+Abilene 
+Alpine 
+Austin 
+Beaumont 
+Canyon 
+College Station 
+Commerce 
+Dallas 
+Denton 
+Fort Worth 
+Georgetown 
+Huntsville 
+Houston 
+Keene 
+Kingsville 
+Lubbock 
+Nacogdoches 
+Plainview 
+Prairie View 
+San Marcos 
+Stephenville 
+Waco 
+Utah
+Cedar City 
+Logan 
+Provo 
+Orem 
+Salt Lake City 
+Ephraim 
+Vermont
+Burlington 
+Castleton 
+Johnson 
+Lyndonville 
+Middlebury 
+Northfield 
+Virginia
+Blacksburg 
+Bridgewater 
+Charlottesville 
+Farmville 
+Fredericksburg 
+Harrisonburg 
+Lexington 
+Lynchburg 
+Radford 
+Williamsburg 
+Wise 
+Chesapeake 
+Washington
+Bellingham 
+Cheney 
+Ellensburg 
+Pullman 
+Seattle 
+West Virginia
+Athens 
+Buckhannon 
+Fairmont 
+Glenville 
+Huntington 
+Montgomery 
+Morgantown 
+Shepherdstown 
+West Liberty 
+Wisconsin
+Appleton 
+Eau Claire 
+Green Bay 
+La Crosse 
+Madison 
+Menomonie 
+Milwaukee 
+Oshkosh 
+Platteville 
+River Falls 
+Stevens Point 
+Waukesha 
+Whitewater 
+Wyoming
+Laramie 
